@@ -1,7 +1,5 @@
-# Website =
-(https://github.com/Pisit-Janthawee/Web-Scraping-DrugBank-Selenium/assets/133638243/ae36b284-c3b8-4866-947d-27c34109ffb2)](https://go.drugbank.com)
-
-
+# Website 
+![image](https://github.com/Pisit-Janthawee/Web-Scraping-DrugBank-Selenium/assets/133638243/c0133ad4-102f-4973-abb7-5ff980b53d28)
 
 # Web Scraping DrugBank Selenium
 Use Selenium library for Web scraping
