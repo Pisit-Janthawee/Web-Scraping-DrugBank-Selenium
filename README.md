@@ -11,3 +11,5 @@ Use Selenium library for Web scraping, Create automation clicking for website's 
 - Python
 - BeautifulSoup
 - Selenium 
+- Requests
+- Pandas
