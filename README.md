@@ -1,5 +1,6 @@
-![image](https://github.com/Pisit-Janthawee/Web-Scraping-DrugBank-Selenium/assets/133638243/3c9f0170-fc80-4966-a148-2b3ae6b14df1)
 
+
+<img src="](https://github.com/Pisit-Janthawee/Web-Scraping-DrugBank-Selenium/assets/133638243/3c9f0170-fc80-4966-a148-2b3ae6b14df1)"  width="600" height="600">
 https://go.drugbank.com/
 
 # Web-Scraping-DrugBank-Selenium
